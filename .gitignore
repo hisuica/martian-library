@@ -313,31 +313,3 @@ fabric.properties
 .idea/**/markdown-navigator/
 
 # End of https://www.gitignore.io/api/node,ruby,rails,rubymine
-.browserslistrc
-.generators
-.idea/.generators
-.idea/.gitignore
-.idea/inspectionProfiles/
-.idea/martian-library.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.rakeTasks
-.ruby-version
-Gemfile
-Gemfile.lock
-Rakefile
-app/
-babel.config.js
-bin/
-config.ru
-config/
-db/
-lib/
-log/.keep
-package.json
-postcss.config.js
-public/
-storage/
-vendor/
-yarn.lock
