@@ -307,3 +307,4 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/node,ruby,rails,rubymine
+!/app/javascript/components/UserInfo/operations.graphql
