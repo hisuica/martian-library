@@ -50,6 +50,7 @@ const UserInfo = () => {
                           className={cs.button}
                           value="Sign In"
                         />
+                        {error && <span>{error.message}</span>}
                       </form>
                     </div>
                   )

@@ -1,5 +1,6 @@
 .form {
   display: grid;
+  position: relative;
   margin: 0 auto 10px;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-column-gap: 10px;
@@ -28,4 +29,10 @@
 
 .input:focus {
   border-bottom: 1px solid #bf6c35;
+}
+
+.errors {
+  position: absolute;;
+  top: -20px;
+  color: #ff5845;
 }
